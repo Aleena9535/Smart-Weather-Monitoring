@@ -52,3 +52,12 @@ streamlit run app.py
 - Email Alerts
 - Mobile Dashboard
 - Live Deployment
+## Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard](screenshots/dashboard1.png)
+
+### Weather Charts
+
+![Charts](screenshots/dashboard2.png)
